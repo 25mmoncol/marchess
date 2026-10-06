@@ -1,0 +1,5 @@
+Chess piece SVGs: Staunty set from Lichess
+Copyright (c) 2012-2026 the Lichess authors
+Source: https://github.com/lichess-org/lila/tree/5ae58154b2be1033dcb0252173b4fff4bb02e73a/public/piece/staunty
+
+These files are licensed under the GNU Affero General Public License, version 3 or (at your option) any later version (AGPL-3.0-or-later). The license permits commercial use subject to its terms. The corresponding license text is in LICENSE.txt.
